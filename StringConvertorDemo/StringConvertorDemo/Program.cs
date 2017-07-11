@@ -23,6 +23,7 @@ namespace StringConvertorDemo
             Console.WriteLine("4 Byte String is:{0} = Value: {1}", hex.Substring(24, 4), value2Byte);
             int value1Byte = StringDemo.GetSubString<Int16>(hex, 28, 2);
             Console.WriteLine("1 Byte String is:{0} = Value: {1}", hex.Substring(28, 2), value1Byte);
+            Console.WriteLine("-------------------------------------");
             Console.ReadKey();
         }
     }
