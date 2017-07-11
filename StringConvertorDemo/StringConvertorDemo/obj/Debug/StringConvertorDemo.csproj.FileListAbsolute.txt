@@ -1,0 +1,6 @@
+e:\local\documents\visual studio 2013\Projects\StringConvertorDemo\StringConvertorDemo\bin\Debug\StringConvertorDemo.exe.config
+e:\local\documents\visual studio 2013\Projects\StringConvertorDemo\StringConvertorDemo\bin\Debug\StringConvertorDemo.exe
+e:\local\documents\visual studio 2013\Projects\StringConvertorDemo\StringConvertorDemo\bin\Debug\StringConvertorDemo.pdb
+e:\local\documents\visual studio 2013\Projects\StringConvertorDemo\StringConvertorDemo\obj\Debug\StringConvertorDemo.csprojResolveAssemblyReference.cache
+e:\local\documents\visual studio 2013\Projects\StringConvertorDemo\StringConvertorDemo\obj\Debug\StringConvertorDemo.exe
+e:\local\documents\visual studio 2013\Projects\StringConvertorDemo\StringConvertorDemo\obj\Debug\StringConvertorDemo.pdb
